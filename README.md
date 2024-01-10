@@ -16,4 +16,8 @@ Discover practical applications of object detection with example projects. These
 
 Dive into the training and evaluation process of object detection models using TensorFlow. Follow step-by-step guides in the "docs" folder to learn how to train your models effectively.
 
+Happy Coding!
 
+# TensorFlow Object Detection
+
+![Project Image](https://github.com/Gurkanerenalbayrak/object_detection/raw/master/picture_1.png)
